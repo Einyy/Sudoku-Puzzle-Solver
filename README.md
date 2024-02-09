@@ -1,5 +1,5 @@
 # Sudoku-Puzzle-Solver
-Sudoku-Puzzle-Solver is a command-line utility written in Javascript that solves Sudoku puzzles of any 9x9 board size using a backtracking algorithm.
+Sudoku-Puzzle-Solver is a command-line utility written in JavaScript that solves Sudoku puzzles of any 9x9 board size using a backtracking algorithm.
 
 ## Key Features:
 - Efficiently solves any Sudoku puzzle using backtracking and recursion.
