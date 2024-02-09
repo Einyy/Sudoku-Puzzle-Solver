@@ -5,7 +5,7 @@ Sudoku-Puzzle-Solver is a command-line utility written in JavaScript that solves
 - Efficiently solves any Sudoku puzzle using backtracking and recursion.
 - Supports custom difficulty levels and user interaction.
 - Implements validation mechanisms to ensure puzzle solvability and uniqueness.
-- Displays a user-friendly interface with the ability to create any board.
+- Displays a user-friendly interface with the ability to create any board of the user's choice
 
 ## Usage:
 1. Clone the repository to your local machine.
